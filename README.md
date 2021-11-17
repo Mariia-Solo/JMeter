@@ -1,7 +1,7 @@
 # JMeter
 #Home_work1 
 
-:white_check_mark: [посмотреть выполненные задания можно тут](https://github.com/Mariia-Solo/JMeter/blob/main/HW_1_JMeter.jmx) 
+:white_check_mark: **[посмотреть выполненные задания можно тут](https://github.com/Mariia-Solo/JMeter/blob/main/HW_1_JMeter.jmx)**
 ______________
 
 
